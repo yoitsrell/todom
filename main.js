@@ -11,7 +11,10 @@ function printTodo(todo) {
 
   // Put the ul that's already in our html file in a variable.
 
+
   // Append the li we made to the ul as the last child.
+
+
 }
 
 
@@ -23,6 +26,8 @@ function printTodo(todo) {
 /*
 
 Here's what it'll do, in order. Feel free to put these comments in your function!
+
+
 
 // Place in a variable the node element for the add todo input box.
 
